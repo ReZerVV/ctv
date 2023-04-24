@@ -1,9 +1,9 @@
 # Simple Table View.
 
-## Referense:
+### Referense:
 * CSV Format - _https://ru.wikipedia.org/wiki/CSV_
 
-## Supported formats:
+### Supported formats:
  * `csv`
 
 ### Example.
@@ -22,4 +22,13 @@ Index|User Id        |First Name|Last Name|Sex   |Email                      |Ph
 9    |baDcC4DeefD8dEB|Dave      |Farrell  |Male  |nmccann@example.net        |603-428-2429x27392    |2018-10-06   |Lawyer                  |
 10   |8e4FB470FE19bF0|Isaiah    |Downs    |Male  |virginiaterrell@example.org|+1-511-372-1544x8206  |1964-09-20   |Engineer                |
 ...
+```
+
+### Quick start.
+
+```
+$ mkdir build
+$ cd ../build
+$ cmake ..
+$ make
 ```
