@@ -32,3 +32,7 @@ $ cd ../build
 $ cmake ..
 $ make
 ```
+
+```
+$ ./ctv path_to_file.csv
+```
